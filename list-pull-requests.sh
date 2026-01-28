@@ -2,7 +2,7 @@
 
 # ========== CONFIG ==========
 # Ku qor sida: OWNER/REPO
-REPO="OWNER/REPO"
+REPO="abdulkadirhadrami/Abdulkadir-DevOpsRep"
 
 # Hubi token
 if [ -z "$GITHUB_TOKEN" ]; then
